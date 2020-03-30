@@ -12,7 +12,7 @@ l{
 m{
     position: absolute;
     top:200px;
-    left: 750px;  
+    left: 750px;
 }
 pap1{
     position: absolute;
@@ -22,4 +22,13 @@ pap1{
 }
 sc{
      font-size: 25px;
+}
+li{
+  list-style-type: circle;
+}
+fs1 {
+  font-size: 150px;
+}
+fs2 {
+  font-size: 15px;
 }
