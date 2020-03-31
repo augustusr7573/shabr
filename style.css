@@ -32,3 +32,18 @@ fs1 {
 fs2 {
   font-size: 15px;
 }
+pb{
+    position: absolute;
+    top: 450px;
+    left: 700px;
+}
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: lightblue;
+  }
+}
