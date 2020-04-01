@@ -26,7 +26,7 @@ sc{
 li{
   list-style-type: circle;
 }
-fs1 {
+.fs1 {
   font-size: 150px;
 }
 fs2 {
@@ -46,4 +46,9 @@ pb{
   body {
     background-color: lightblue;
   }
+}
+img-p1{
+      position: absolute;
+    top: 110px;
+    left: 770px;
 }
